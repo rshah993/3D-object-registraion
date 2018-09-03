@@ -1,1 +1,1 @@
-# 3D-object-registraion
+# 3D-object-registration
