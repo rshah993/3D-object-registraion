@@ -1,0 +1,1 @@
+These point clouds are obtained after running the initial point clouds through a passthrough filter with limits set on the 'z' coordinate. This method is inaccurate as they are an approximation of the bounding boxes obtained by the mobilenet model.

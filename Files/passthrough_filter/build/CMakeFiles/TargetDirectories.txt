@@ -1,0 +1,3 @@
+/home/shah/passthrough/build/CMakeFiles/rebuild_cache.dir
+/home/shah/passthrough/build/CMakeFiles/edit_cache.dir
+/home/shah/passthrough/build/CMakeFiles/passthrough.dir
